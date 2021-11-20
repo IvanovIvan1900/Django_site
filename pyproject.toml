@@ -8,6 +8,7 @@ authors = ["IvanovIvan1900 <rTK}6+#HgB0o>"]
 python = "^3.8"
 Django = "^3.2.9"
 django-taggit = "^2.0.0"
+Markdown = "^3.3.6"
 
 [tool.poetry.dev-dependencies]
 
